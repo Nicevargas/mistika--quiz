@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="3;url=https://quizv2-two.vercel.app/">
+  <meta http-equiv="refresh" content="0;url=https://quizv2-two.vercel.app/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Redirecionando...</title>
 
